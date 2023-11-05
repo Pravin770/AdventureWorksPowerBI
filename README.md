@@ -1,7 +1,7 @@
 # AdventureWorks PowerBI
 Visualisation of Sales data from a Global Manufacturing company that produces cycling equipment and accessories.
 
-## Executive Summary Page (Page No.1)
+### Executive Summary Page (Page No.1)
 ![e2ba6077-3f8e-4bf6-a00b-65b2c41a4498](https://github.com/Pravin770/AdventureWorksPowerBI/assets/56891610/2436d8cc-0217-45c6-aee8-21c93511a89e)
 
 # Executive Summary Page (Page No.1) 
