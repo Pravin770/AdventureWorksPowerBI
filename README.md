@@ -4,7 +4,8 @@ Visualisation of Sales data from a Global Manufacturing company that produces cy
 # Executive Summary Page (Page No.1)
 ![e2ba6077-3f8e-4bf6-a00b-65b2c41a4498](https://github.com/Pravin770/AdventureWorksPowerBI/assets/56891610/2436d8cc-0217-45c6-aee8-21c93511a89e)
 
-# Executive Summary Page (Page No.1)
+# Executive Summary Page (Page No.1) 
+Note: Showing up additional data in tooltip with graph
 ![5911dd5b-ed14-4766-8296-a521d717b835](https://github.com/Pravin770/AdventureWorksPowerBI/assets/56891610/dcc60ed2-355d-439a-b2ac-e05909f39653)
 
 # Map Page (Page No.2)
