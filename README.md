@@ -10,7 +10,7 @@ Note: Showing up additional data in tooltip with graph
 ![5911dd5b-ed14-4766-8296-a521d717b835](https://github.com/Pravin770/AdventureWorksPowerBI/assets/56891610/dcc60ed2-355d-439a-b2ac-e05909f39653)
 
 
-### Map Page (Page No.2)
+### Product Sales by Location Page (Page No.2)
 ![475a8a9b-8d3e-49d3-bfc7-66c3b70167ac](https://github.com/Pravin770/AdventureWorksPowerBI/assets/56891610/d057097d-f0a9-4671-90b9-7bfc3ecade8b)
 
 
